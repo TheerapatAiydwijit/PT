@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.Con{
+    position: relative;
+      text-align: center;
+    }
+.centered {
+    color:#ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
+.LatestProject{
+    margin-left: 0;
+}
+footer{
+    background-color: #3f3f3f;
+    color: #ffffff;
+}
+.bottommenu{
+    background-color: #3f3f3f;
+    color: #ffffff;
+}
+.footrthr{
+    height: 1px;
+    background-color: #ffffff;
+    border: 1px;
+}
+.service{
+    background-color:#F3F2F2;
+}
